@@ -1,0 +1,19 @@
+{
+    "server": {
+        "port": 8080
+    },
+    "geojsonFiles": [
+        {
+            "name": "boundary",
+            "path": "/home/ubuntu/workspace/geojson/Rock_2014_boundary.geojson"
+        },
+        {
+            "name": "areawater",
+            "path": "/home/ubuntu/workspace/geojson/Rock_2014_areawater.geojson"
+        },
+        {
+            "name": "linearwater",
+            "path": "/home/ubuntu/workspace/geojson/Rock_2014_linearwater.geojson"
+        }
+    ]
+}
