@@ -4,6 +4,10 @@
     },
     "geojsonFiles": [
         {
+            "name": "ahps_gauge_data_latest",
+            "path": "/home/ubuntu/workspace/geojson/ahps_gauge_data_latest.geojson"
+        },
+        {
             "name": "boundary",
             "path": "/home/ubuntu/workspace/geojson/Rock_2014_boundary.geojson"
         },
